@@ -2,7 +2,7 @@
  [
   {description, ""},
   {vsn, "1.0.6"},
-  {registered, []},
+  {registered, [apns_sup]},
   {applications, [
                   kernel,
                   stdlib,
